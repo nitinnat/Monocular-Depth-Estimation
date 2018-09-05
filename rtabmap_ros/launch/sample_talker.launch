@@ -1,0 +1,3 @@
+<launch>
+<node pkg="rtabmap_ros" name="sample_talker" type="sample_talker.py" output="screen" />
+</launch>
